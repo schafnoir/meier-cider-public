@@ -1,0 +1,14 @@
+name: meier-cider-public
+title: meier-cider-public
+username:
+account: meier
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4450191
+bundleId: 4882228
+url: https://meier.shinyapps.io/meier-cider-public/
+when: 1627957832.64778
+lastSyncTime: 1627957832.64779
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/.DS_Store|LICENSE|README.md|www/.DS_Store|www/clarifyingCarboys.jpg|www/meierCiderLogo.png

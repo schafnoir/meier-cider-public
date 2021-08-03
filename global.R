@@ -28,7 +28,7 @@ nullToNA <- function(x){
 
 ### Acquire Meier Cider data from Airtable  ##############################################################################
 #   Set Meier Cider Airtable API Key into system environment
-Sys.setenv(AIRTABLE_API_KEY = "key1AZPMvTc6rhbpy")
+Sys.setenv(AIRTABLE_API_KEY = "")
 
 #   Define Airtable tables
 meierCider <- airtable(
