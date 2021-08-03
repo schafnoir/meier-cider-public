@@ -32,7 +32,7 @@ Sys.setenv(AIRTABLE_API_KEY = "")
 
 #   Define Airtable tables
 meierCider <- airtable(
-  base = "appiTFsoriQBHKdeQ",
+  base = "",
   tables = c("trees", "juice", "blends", "batches", "fermentation")
   )
 
